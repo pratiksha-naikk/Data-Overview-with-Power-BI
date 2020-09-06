@@ -3,3 +3,5 @@
 ## Dataset :
 Suicide Rates Overview 1985 to 2016 <br />
 Compares socio-economic info with suicide rates by year and country
+
+## Data Visualization :
