@@ -1,0 +1,1 @@
+# Suicide-Data-Overview-with-Power-BI
