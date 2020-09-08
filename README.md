@@ -1,6 +1,6 @@
 # Data-Overview-with-Power-BI
 
-## Dataset : Suicide over the years
+## Dataset : Suicides over the years
 Suicide Rates Overview 1985 to 2016 <br />
 Compares socio-economic info with suicide rates by year and country
 
